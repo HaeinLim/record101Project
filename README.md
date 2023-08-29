@@ -16,7 +16,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github.com/HaeinLim/CucumberProject/assets/140698817/f8d4e45c-ea5f-4f95-9782-bfc32a828f96" width="600" height="400">
+        <img src="https://github.com/HaeinLim/Record101Project/assets/140698817/0e759991-8627-4b8c-88ef-3b84d7977e39" width="500" height="300">
       </td>
     </tr>
     <tr>
@@ -59,10 +59,10 @@ K-POP 열풍에 따라 음악 시장이 활성화됨에 따라 음반 판매 프
       </tr>
       <tr>
         <td>
-          <img src="https://github.com/HaeinLim/CucumberProject/assets/140698817/0f368630-4f58-4dd4-8514-b104da8bb840" width="400" height="200">
+          <img src="https://github.com/HaeinLim/Record101Project/assets/140698817/0e759991-8627-4b8c-88ef-3b84d7977e39" width="400" height="300">
         </td>
         <td>
-          <img src="https://github.com/HaeinLim/CucumberProject/assets/140698817/72403b04-df53-42b6-82f7-a8160556fd0c" width="400" height="200">
+          <img src="https://github.com/HaeinLim/Record101Project/assets/140698817/dccddb87-acf7-4100-af91-721eab0cc213" width="400" height="300">
         </td>
       </tr>
       <tr>
@@ -87,7 +87,7 @@ K-POP 열풍에 따라 음악 시장이 활성화됨에 따라 음반 판매 프
       </tr>
       <tr>
         <td>
-          <img src="https://github.com/HaeinLim/CucumberProject/assets/140698817/079c8eb1-b8b6-41c5-a1ac-51107f4e12de" width="400" height="200">
+          <img src="https://github.com/HaeinLim/Record101Project/assets/140698817/dde29ed1-2562-4100-bf21-4d85b2922a32" width="400" height="300">
         </td>
       </tr>
       <tr>
@@ -110,13 +110,13 @@ K-POP 열풍에 따라 음악 시장이 활성화됨에 따라 음반 판매 프
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/HaeinLim/CucumberProject/assets/140698817/13f7f8bd-cc37-467a-b701-66c64ec55499" width="600" height="400">
+        <img src="https://github.com/HaeinLim/Record101Project/assets/140698817/fb0ccdb4-311c-486c-8356-1939e666462d" width="400" height="200">
       </td>
       <td align="center">
-        <img src="https://github.com/HaeinLim/CucumberProject/assets/140698817/13f7f8bd-cc37-467a-b701-66c64ec55499" width="600" height="400">
+        <img src="https://github.com/HaeinLim/Record101Project/assets/140698817/642ad6b9-4b91-4fc7-9d72-c55a15159901" width="400" height="200">
       </td>
       <td align="center">
-        <img src="https://github.com/HaeinLim/CucumberProject/assets/140698817/13f7f8bd-cc37-467a-b701-66c64ec55499" width="600" height="400">
+        <img src="https://github.com/HaeinLim/Record101Project/assets/140698817/d3dc0030-740f-4e70-a7b4-a8c0d863ab9e" width="400" height="200">
       </td>
     </tr>
     <tr>
